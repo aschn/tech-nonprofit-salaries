@@ -36,5 +36,5 @@ The data set is available on Google Sheets at https://docs.google.com/spreadshee
 ## Data analysis
 
 In progress in the ipython notebook in this repo!
-Click on the ipynb file to view the graphs,
+Click on [tech_nonprofit_salaries.ipynb](https://github.com/aschn/tech-nonprofit-salaries/blob/master/tech_nonprofit_salaries.ipynb) to view the graphs,
 or clone and run `ipython notebook` to run the code yourself.
