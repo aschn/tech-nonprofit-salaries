@@ -1,2 +1,7 @@
 ipython
 pandas
+awscli
+requests
+BeautifulSoup4
+lxml
+scikit-learn
