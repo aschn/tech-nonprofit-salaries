@@ -37,7 +37,7 @@ ipython notebook
 
 Run the contents of `1_tech_nonprofit_irs_metadata.ipynb` to scrape the AWS 990 data, create ~180M of data in `irs-form-990/index_201*.csv`, and recreate `output/metadata.csv`.
 
-Run the contents of `2_tech_nonprofit_irs_comp_features.ipynb.ipynb` to recreate `output/comp_data_raw.csv` and `output/comp_data_features.csv`.
+Run the contents of `2_tech_nonprofit_irs_comp_features.ipynb` to recreate `output/comp_data_raw.csv` and `output/comp_data_features.csv`.
 
 
 To play with the data, open `output/comp_data_features.csv` in your data analysis tool of choice.
